@@ -1,0 +1,14 @@
+{
+  "dataset": "Breast Cancer Wisconsin (Diagnostic)",
+  "instances": 569,
+  "features": 30,
+  "train_rows": 455,
+  "test_rows": 114,
+  "random_state": 42,
+  "test_size": 0.2,
+  "target_mapping": {
+    "0": "malignant",
+    "1": "benign"
+  },
+  "positive_label_for_binary_metrics": 1
+}
